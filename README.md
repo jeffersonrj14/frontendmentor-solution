@@ -1,1 +1,1 @@
-![Live Demo](https://jeffersonrj14.github.io/frontendmentor-solution)
+[Live Demo](https://jeffersonrj14.github.io/frontendmentor-solution)
