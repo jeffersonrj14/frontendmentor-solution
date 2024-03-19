@@ -9,7 +9,7 @@
     <a href="https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <a href="https://social-links-profile-tailwind.vercel.app">View Demo</a>
+    <a href="https://jeffersonrj14.github.io/frontendmentor-solution/solution/newbie/social-links-profile-tailwind/src/index.html">View Demo</a>
   </p>
 </div>
 
@@ -37,7 +37,7 @@ challenges help you improve your coding skills by building realistic projects.
 <h2 align="center">Links</h2>
 
 - Solution URL: [Social Links Profile Website (HTML + Tailwind) | Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-html-tailwind-AJFqwX92cH)
-- Live Site URL: [https://social-links-profile-tailwind.vercel.app](https://social-links-profile-tailwind.vercel.app)
+- Live Site URL: [https://social-links-profile-tailwind.vercel.app](https://jeffersonrj14.github.io/frontendmentor-solution/solution/newbie/social-links-profile-tailwind/src/index.html)
 
 <br>
 

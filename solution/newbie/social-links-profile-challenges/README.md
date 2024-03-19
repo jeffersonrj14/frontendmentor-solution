@@ -9,7 +9,7 @@
     <a href="https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <a href="https://jeffersonrj14.github.io/social-links-profile-challenges">View Demo</a>
+    <a href="https://jeffersonrj14.github.io/frontendmentor-solution/solution/newbie/social-links-profile-challenges/index.html">View Demo</a>
   </p>
 </div>
 
@@ -37,7 +37,7 @@ challenges help you improve your coding skills by building realistic projects.
 <h2 align="center">Links</h2>
 
 - Solution URL: [Social Links Profile Website (HTML + CSS Flex) | Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-solution-html-css-flex-_M1pZTrbnP)
-- Live Site URL: [https://jeffersonrj14.github.io/social-links-profile-challenges](https://jeffersonrj14.github.io/social-links-profile-challenges)
+- Live Site URL: [https://jeffersonrj14.github.io/social-links-profile-challenges](https://jeffersonrj14.github.io/frontendmentor-solution/solution/newbie/social-links-profile-challenges/index.html)
 
 <br>
 
