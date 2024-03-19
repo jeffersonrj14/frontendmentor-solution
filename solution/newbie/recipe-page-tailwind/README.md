@@ -36,7 +36,7 @@ challenges help you improve your coding skills by building realistic projects.
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Social Links Profile Website (HTML + CSS Flex) | Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-solution-html-css-flex-_M1pZTrbnP)
+- Solution URL: [Social Links Profile Website (HTML + CSS Flex) | Frontend Mentor](https://www.frontendmentor.io/solutions/recipe-page-solution-tailwind-css-cbIloyVULF)
 - Live Site URL: [https://jeffersonrj14.github.io/frontendmentor-solution](https://jeffersonrj14.github.io/frontendmentor-solution/solution/newbie/recipe-page-tailwind/src/index.html)
 
 <br>
