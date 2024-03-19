@@ -4,12 +4,12 @@
 
   <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" alt="frontendmentor" width="80">
 
-  <h2 align="center">Social links profile Solution</h2>
+  <h2 align="center">Recipe Page Solution</h2>
   <p align="center">
-    <a href="https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ"><strong>Frontend Mentor Challenge</strong></a>
+    <a href="https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <a href="https://jeffersonrj14.github.io/frontendmentor-solution/solution/newbie/social-links-profile-challenges/index.html">View Demo</a>
+    <a href="https://jeffersonrj14.github.io/frontendmentor-solution/solution/newbie/recipe-page-tailwind/src/index.html">View Demo</a>
   </p>
 </div>
 
@@ -27,17 +27,17 @@
 
 <div align="center">
 
-![Screenshot](./assets/images/screenshot.png)
+![Screenshot](./public/desktop-design.jpg)
 
 </div>
 
-This is a solution to the [Social Links Profile Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
+This is a solution to the [Social Links Profile Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
 challenges help you improve your coding skills by building realistic projects.
 
 <h2 align="center">Links</h2>
 
 - Solution URL: [Social Links Profile Website (HTML + CSS Flex) | Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-solution-html-css-flex-_M1pZTrbnP)
-- Live Site URL: [https://jeffersonrj14.github.io/frontendmentor-solution](https://jeffersonrj14.github.io/frontendmentor-solution/solution/newbie/social-links-profile-challenges/index.html)
+- Live Site URL: [https://jeffersonrj14.github.io/frontendmentor-solution](https://jeffersonrj14.github.io/frontendmentor-solution/solution/newbie/recipe-page-tailwind/src/index.html)
 
 <br>
 

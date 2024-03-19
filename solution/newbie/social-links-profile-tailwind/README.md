@@ -37,7 +37,7 @@ challenges help you improve your coding skills by building realistic projects.
 <h2 align="center">Links</h2>
 
 - Solution URL: [Social Links Profile Website (HTML + Tailwind) | Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-html-tailwind-AJFqwX92cH)
-- Live Site URL: [https://social-links-profile-tailwind.vercel.app](https://jeffersonrj14.github.io/frontendmentor-solution/solution/newbie/social-links-profile-tailwind/src/index.html)
+- Live Site URL: [https://jeffersonrj14.github.io/frontendmentor-solution](https://jeffersonrj14.github.io/frontendmentor-solution/solution/newbie/social-links-profile-tailwind/src/index.html)
 
 <br>
 
