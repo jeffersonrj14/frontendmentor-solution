@@ -1,0 +1,20 @@
+{
+  "name": "social-links-profile-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "RJ Jefferson",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffersonrj14/social-links-profile-tailwind.git"
+  },
+  "homepage": "https://jeffersonrj14.github.io/social-links-profile-tailwind",
+  "license": "",
+  "devDependencies": {
+    "gh-pages": "^6.1.1",
+    "tailwindcss": "^3.4.1"
+  }
+}

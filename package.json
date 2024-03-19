@@ -1,0 +1,16 @@
+{
+  "name": "frontendmentor-solution",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "RJ Jefferson",
+  "repository": {
+    "type": "git",
+    "url": "https://jeffersonrj14.github.io/frontendmentor-solution.git"
+  },
+  "homepage": "https://jeffersonrj14.github.io/frontendmentor-solution",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}

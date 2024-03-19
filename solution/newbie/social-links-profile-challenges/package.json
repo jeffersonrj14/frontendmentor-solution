@@ -1,0 +1,19 @@
+{
+  "name": "social-links-profile-challenges",
+  "version": "1.0.0",
+  "description": "![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "RJ Jefferson",
+  "repository": {
+    "type": "git",
+    "url": "https://jeffersonrj14.github.io/social-links-profile-challenges.git"
+  },
+  "homepage": "https://jeffersonrj14.github.io/social-links-profile-challenges",
+  "license": "",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}

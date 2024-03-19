@@ -1,0 +1,119 @@
+/* Reset Rules
+------------------------------------------------------------- */
+
+@font-face {
+    font-family: "Inter-400";
+    src: url(../assets/fonts/static/Inter-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Inter-600";
+    src: url(../assets/fonts/static/Inter-SemiBold.ttf);
+}
+
+
+@font-face {
+    font-family: "Inter-700";
+    src: url(../assets/fonts/static/Inter-Bold.ttf);
+}
+
+:root {
+    --green: hsl(75, 94%, 57%);
+    --white: hsl(0, 0%, 100%);
+    --grey: hsl(0, 0%, 20%);
+    --darkGrey: hsl(0, 0%, 12%);
+    --offBlack: hsl(0, 0%, 8%);
+    --rounded: 0.75rem;
+    --ff400: "Inter-400";
+    --ff600: "Inter-600";
+    --ff700: "Inter-700";
+}
+
+body {
+    font-family: var(--ff400);
+    background-color: var(--offBlack);
+}
+
+/* Main
+------------------------------------------------------------- */
+
+section.card-info {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    min-height: 100vh; 
+    font-size: 1rem;
+    line-height: 1.5rem; 
+    color: var(--white); 
+}
+
+.main-card {
+    text-align: center; 
+}
+
+.card-content {
+    background-color: var(--darkGrey);
+    padding: 2rem; 
+    margin-left: 1rem;
+    margin-right: 1rem; 
+    border-radius: var(--rounded); 
+
+
+    @media (min-width: 640px) { 
+        width: 400px;
+    }
+}
+
+.card-content > img {
+
+    margin-bottom: 1rem; 
+    border-radius: 50%; 
+    height: 6rem; 
+}
+
+.card-name {
+    margin-bottom: 0.5rem; 
+    font-size: 1.5rem;
+    line-height: 2rem; 
+    font-weight: 700; 
+}
+
+.card-location {
+    display: block; 
+    margin-bottom: 1rem; 
+    font-size: 0.875rem;
+    line-height: 1.25rem; 
+    font-weight: 600; 
+    color: var(--green);
+}
+
+.card-subheading {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem; 
+}
+
+.card-list-item {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem; 
+    margin-bottom: 1rem; 
+    border-radius: 0.5rem; 
+    cursor: pointer; 
+    background-color: var(--grey);
+}
+.card-list-item:hover {
+    color: var(--darkGrey);
+    background-color: var(--green);
+}
+
+
+/* Footer
+------------------------------------------------------------- */
+
+.footer-link {
+    color: var(--green);
+    text-decoration: none;
+}
+.footer-link:hover {
+    color: var(--white);
+}
